@@ -4,12 +4,6 @@ Um aplicativo simples para gerenciar suas finanças pessoais, desenvolvido em Py
 
 ## Screenshots
 
-Para adicionar as screenshots:
-1. Vá para a aba "Issues" do repositório
-2. Crie um novo Issue
-3. Arraste as imagens para a área de texto
-4. Copie os links gerados e substitua os links abaixo
-
 ### Tela Inicial
 ![Image](https://github.com/user-attachments/assets/4ce7dbb9-6e29-47fe-9a33-0a89057f23d6)
 
