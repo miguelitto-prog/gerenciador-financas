@@ -11,10 +11,10 @@ Para adicionar as screenshots:
 4. Copie os links gerados e substitua os links abaixo
 
 ### Tela Inicial
-![Image](https://github.com/user-attachments/assets/52867f29-7c17-48ca-8cb2-5011e3e552ce)
+![Image](https://github.com/user-attachments/assets/4ce7dbb9-6e29-47fe-9a33-0a89057f23d6)
 
 ### Adicionando Transação
-![Image](https://github.com/user-attachments/assets/4ce7dbb9-6e29-47fe-9a33-0a89057f23d6)
+![Image](https://github.com/user-attachments/assets/52867f29-7c17-48ca-8cb2-5011e3e552ce)
 
 ## Funcionalidades
 
