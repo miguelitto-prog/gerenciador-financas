@@ -51,10 +51,4 @@ python main.py
 
 Os dados são salvos automaticamente em um arquivo `transactions.json` no mesmo diretório do aplicativo.
 
-## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes. 
