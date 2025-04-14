@@ -1,0 +1,66 @@
+# Gerenciador de Finanças
+
+Um aplicativo simples para gerenciar suas finanças pessoais, desenvolvido em Python com interface gráfica.
+
+## Screenshots
+
+Para adicionar as screenshots:
+1. Vá para a aba "Issues" do repositório
+2. Crie um novo Issue
+3. Arraste as imagens para a área de texto
+4. Copie os links gerados e substitua os links abaixo
+
+### Tela Inicial
+![Tela Inicial](https://user-images.githubusercontent.com/.../screenshot-inicial.png)
+
+### Adicionando Transação
+![Adicionando Transação](https://user-images.githubusercontent.com/.../screenshot-adicionando.png)
+
+## Funcionalidades
+
+- Adicionar receitas e despesas
+- Visualizar saldo atual
+- Histórico de transações
+- Armazenamento persistente dos dados
+- Interface gráfica intuitiva
+
+## Requisitos
+
+- Python 3.x
+- Tkinter (já vem com o Python)
+
+## Instalação
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/seu-usuario/gerenciador-financas.git
+cd gerenciador-financas
+```
+
+2. Execute o aplicativo:
+```bash
+python main.py
+```
+
+## Como usar
+
+1. Para adicionar uma transação:
+   - Selecione o tipo (Receita ou Despesa)
+   - Digite uma descrição
+   - Insira o valor
+   - Clique em "Adicionar"
+
+2. O saldo será atualizado automaticamente
+3. A tabela abaixo exibirá o histórico de transações
+
+## Armazenamento de dados
+
+Os dados são salvos automaticamente em um arquivo `transactions.json` no mesmo diretório do aplicativo.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes. 
